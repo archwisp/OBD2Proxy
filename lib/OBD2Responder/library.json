@@ -1,0 +1,29 @@
+{
+  "name": "OBD2Responder",
+  "version": "1.0.0",
+  "description": "OBD-II protocol responder library",
+  "keywords": "obd2, can, automotive, diagnostics",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/your-repo/OBD2Responder.git"
+  },
+  "authors": [
+    {
+      "name": "Your Name",
+      "email": "your.email@example.com"
+    }
+  ],
+  "license": "MIT",
+  "frameworks": "arduino",
+  "platforms": "espressif32",
+  "dependencies": {
+    "CANStream": "^1.0.0",
+    "BinaryString": "^1.0.0",
+    "HexString": "^1.0.0",
+    "Broadcast": "^1.0.0"
+  },
+  "build": {
+    "srcDir": "src",
+    "includeDir": "include"
+  }
+} 

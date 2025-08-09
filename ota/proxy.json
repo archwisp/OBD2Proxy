@@ -1,0 +1,11 @@
+{
+  "Configurations": [
+    {
+      "Version": "1.0.0",
+      "Board": "",
+      "Config": "",
+      "URL": "http://192.168.101.1:23001/firmware/proxy.bin",
+      "Description": "OBD-II CAN Proxy firmware"
+    }
+  ]
+}

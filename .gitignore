@@ -1,0 +1,6 @@
+.DS_Store
+.pio/
+build/
+*.sw*
+ota/firmware/*.bin
+.ctags
